@@ -6,4 +6,4 @@ Here, I will document my active projects and describe the learning journey, my l
 
 ---
 # Logs 
-1. [very-cool-os]()
+1. [very-cool-os](Blogs/very-cool-os.md)
