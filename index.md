@@ -7,3 +7,4 @@ Here, I will document my active projects and describe the learning journey, my l
 ---
 # Logs 
 1. [very-cool-os](https://www.anirudhrath.tech/very-cool-os/)
+2. [Sling Malware](https://www.anirudhrath.tech/Sling/)
