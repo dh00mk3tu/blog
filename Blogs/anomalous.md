@@ -11,12 +11,13 @@ A week ago our university announced that our end semester exams will be conducte
 
 We, students were preparing our computers and systems for the exams. Everything was going well, though it still is going well but not for a friend of mine. 
 
-My friend Arpit contacts me one night and tells me 
-"My computer restarts on it's own, whenever it feels like. It's completely random, it happens whenever it is going to happen"
+My friend Arpit contacts me one night and tells me,
+
+ >"My computer restarts on it's own, whenever it feels like. It's completely random, it happens whenever it is going to happen"
 
 A lot of troubleshooting methods and thoughts of what might be causing this problem started to rush in my head, he added onto the problem statement 
 
-"It feels different from a normal restart. I just get the MSI logo (motherboard logo basically) and the computer boots back up normally"
+>"It feels different from a normal restart. I just get the MSI logo (motherboard logo basically) and the computer boots back up normally"
 
 ---
 
