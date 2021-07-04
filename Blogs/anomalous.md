@@ -22,3 +22,4 @@ A lot of troubleshooting methods and thoughts of what might be causing this prob
 ---
 
 ### The Problem 
+The reasons for chronic restart can be many; but there are some default troubleshooting methods that are the reason for the problem about 90% of the time. It was clear at this point that we'll have to narrow down the problem by troubleshooting to a degree so can we could pin-point the cause of the problem. 
