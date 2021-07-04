@@ -36,4 +36,6 @@ Though in most cases, new softwares lead to BSODs and clashes with already exist
 
 But it is always recommended to update your software to the most recent version. The developers most of the times are aware of what they're doing.
 
-So we ran the checks on his computer if it was Windows' outdated version causing the problems. 
+So we ran the checks on his computer if it was Windows' outdated version or any other software package that might be the culprit.
+
+To my surprise though, his Windows was already on the latest version and no other software was installed in the past month. Moreover, his drivers were up to date as well. 
