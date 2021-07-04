@@ -7,6 +7,12 @@ The key takeaway here that we need to understand is that computers are incredibl
 
 We, as humans are yet to create a machine that is sentient and has consciousness of it's own. It's a story and a topic for another day.
 
+A week ago our university announced that our end semester exams will be conducted online because of the on going pandemic and outbreak of the delta variant. 
+
+We, students were preparing our computers and systems for the exams. Everything was going well, though it still is going well but not for a friend of mine. 
+
+My friend Arpit contacts 
+
 ---
 
 ### The Problem 
