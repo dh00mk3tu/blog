@@ -12,5 +12,5 @@ Here, I will document my active projects and describe the learning journey, my l
 2. [Sling Malware](https://www.anirudhrath.dev/Sling/)
 > I made this malware back in 3rd year of my Engineering. It was a fun project and I learnt a lot about networking, socket programming in C and how to work at lowest levels of Windows. Even though I haven't yet documented how it works but I have documented how to use it and set it up. Will get back to it in the future.
 
-3. [Anomalous Restarts](https://www.anirudhrath.dev/blogs/Blogs/anomalous.md)
+3. [Anomalous Restarts](Blogs/anomalous.md)
 > My friend contacted me some while ago about his computer restarting time and again. This is so far the most bizzare condition I have come across because it's hard to pin-point what might be causing the problem.  
