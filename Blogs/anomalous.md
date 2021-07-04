@@ -11,7 +11,8 @@ A week ago our university announced that our end semester exams will be conducte
 
 We, students were preparing our computers and systems for the exams. Everything was going well, though it still is going well but not for a friend of mine. 
 
-My friend Arpit contacts 
+My friend Arpit contacts me one night and tells me 
+"My computer restarts on it's own, whenever it feels like. It's completely random, it happens whenever it is going to happen"
 
 ---
 
