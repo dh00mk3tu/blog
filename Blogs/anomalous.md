@@ -29,4 +29,11 @@ Let's begin, one step at a time.
 
 ### Pin and Points 
 
-#### 1. Windows Update & Software Check 
+#### Windows Update & Software Check 
+The first and foremost check that one should do is to check the software status on your computer. Most of the times installation of new software; usually new drivers cause problems to arise.
+
+Though in most cases, new softwares lead to BSODs and clashes with already existing software(if any).
+
+But it is always recommended to update your software to the most recent version. The developers most of the times are aware of what they're doing.
+
+So we ran the checks on his computer if it was Windows' outdated version causing the problems. 
