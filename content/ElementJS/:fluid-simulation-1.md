@@ -89,3 +89,4 @@ canvas{
 }
 ```
 
+We are adding the backgroung color to the canvas here, along with the border to make sure it is visible and stands out from rest of the objects on the screen.
